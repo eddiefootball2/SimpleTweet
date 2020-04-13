@@ -1,8 +1,8 @@
-# Project 2 - *Simple Tweet*
+# Project 2 - *SimpleTweet*
 
-**Simple Tweet** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**SimpleTweet** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **6** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -41,9 +41,6 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-##GIF
 
 ## Notes
 
@@ -56,7 +53,7 @@ Had some issues with adding the Twitter assets to the action bar and editing the
 
 ## License
 
-    Copyright 2020 Edward Whitfield.
+    Copyright 2020 Edward Whitfield
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -76,7 +73,7 @@ Had some issues with adding the Twitter assets to the action bar and editing the
 
 **Simple Tweet** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **6** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -109,7 +106,6 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 
-
 ## Notes
 
 Currently exploring how to make the app feel more Twitter branded. Using the color palette provided and the icons given in the guides.
@@ -121,7 +117,7 @@ Currently exploring how to make the app feel more Twitter branded. Using the col
 
 ## License
 
-    Copyright 2020 Edward Whitfield.
+    Copyright 2020 Edwardn Whitfield
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
